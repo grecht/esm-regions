@@ -1,1 +1,1 @@
-A methodology for defining regions in an energy system model using a hierarchcial clustering algorithm.
+A methodology for defining regions in an energy system model using a hierarchical clustering algorithm.
